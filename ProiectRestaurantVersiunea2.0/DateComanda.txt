@@ -1,0 +1,25 @@
+#
+#	Meniuri initiale
+#
+
+initial	MeniuMic
+initial	MeniuMare
+
+#
+# 	testare cu valori normale
+#	valoare asteptata  valoare discount
+#
+
+22.5	10
+20	20
+17.5	30
+15	40
+
+#
+#	testare cu valori aflate la limita
+#	valoare asteptata valoare discount
+#
+
+24.975	0.1
+24.9975	0.01
+
